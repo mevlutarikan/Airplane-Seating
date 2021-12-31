@@ -16,3 +16,7 @@ $ git clone https://github.com/mevlutarikan/ecommerce.git
 $ cd airplane-seating/
 $ node app.js
 ```
+
+## Time&Space complexity
+
+if n is the total number of seats in the plane, both time and space complexity is O(n).
